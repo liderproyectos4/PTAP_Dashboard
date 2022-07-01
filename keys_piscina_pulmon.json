@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "piscina-pulmon",
+  "private_key_id": "9ba7a70d5cab4f42cc34d05c2d4927335d6634cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCSX3Nftw6++uP5\nQftiwOhVT+KPUVsSJXIPJB1UnNH032+9m29/vmzjCZztlDA5m3/XMr+oaAtxMNd1\nieZX4s4hEiUB/VpG8i8hpWAnz1XFZN/v7fPdgBayReBNwuCxHwY9yPWb3W+5Rfie\nmh+4RPIzf0xVJj4Y9KvNbnHyBsAGblGvPI6izblxDUNei5OEsWzS6SS6+4RxxMv0\nQL+L1GNjyoUEYPD5JdSRM6JXtcgqHTeEq1Bv1qnobrOJA6QGEvNGGFqKGyUoW0lr\ntUjixwzWWQAr7MTDmaXZUQ9DqCkLMrEHlWMWLoFgLB7Yz4g4HD89YGf5mwE+m88v\nUfMlGK8/AgMBAAECggEAP44CYoTxeisl4YyswmxQdPqCvQfuKyrnI3vi4GJXJ6P8\nuK9M8oKUdOAvq1i0t86065O1dEH49eTnKLn/shlgtytRtlNzZ2qw3EMaRS7ZZyQt\nt9fyEzMSp8V/Z0Q+m6mE5D7lpg+3+xJOqU7yhugo4gNb+XzpaZyTHFfgUd5scl28\nKxriAggudVxqHDA8mJjrU5S72ES9gBdJPbYqx6vjkf7e1cbE+6hWlzXYD6r5noci\nV3wylo5ZVzD2FKiNwwEB4R0mxybTx+zX1zW38N3ltNAQygiNuWRKh5SqjW/NcchT\nCNKzd5HFy1uDJQ+o7jRFCgKIoOjQ/bEsxMdu68P0wQKBgQDEclqXTHZlTxnDsLXZ\nr+NWj4vMO98huDxPRv/ZMAcvwMV4AdXzMpGP322VmRyBnXbiHJ7hXqMlDU+F+Ub2\nQAow1IRNdRx8o3dK2ZFfF/B6J9nevWlJ5B/5USnrAWorKIIor6dN7IW4qnphFg9o\nzL3JLUY+hholD2vYcJOjZpzC+wKBgQC+vwOsqMzHz86CskakFq49lzXEVfA3Nf/f\n4SZWlJk1q8c4cD94GqpFaw72dLq6/A2/booBEjNN0ghjRehFdLfkd30X6S+k3B0R\nwCbMupechGnruP3Crqk2GuiUcTfGvdxRx4FL1w/MQxrnbTlW7ZbbacgXbXHfgiZx\nCrTsCSnxjQKBgFSKkgoC0gEPZZsd9WTVmRSrehJOwdwVGX9Uos6pKK6YW2MmBxk+\nbf5ovRRgbDArv/nXL1j2DWforoyNlshrDvesvbNH7xaEktYXg8RU3Rz1AYImKaWv\nE0OMdmm4liQ0rq8ryOh0Hag3Vatqfv8u/Y4SeeR2edHxLQxchm0Pv+75AoGAVmAP\nHOePW8f5Xuu122Y93rwTZ+X2kjnMtaeyAbDmtAwmeaMyyoNgqXCyZN41FKlA3HgE\n3DlOrCW5EKM+a/1PrJCDQAmjPodCTqBxsXGpaAH6KPkrSDZpf4ut2FJwjHm7Q/kQ\nzrQDfl7A1x15wqhyEMeVCS7RSwIXwEa16NC5gp0CgYBOycA9XEO/Kg3wZdVjTGaQ\nfZpvzWUkgikJ776Ocsk1ijpgZ/rTczVEtal4QHcbYT5LcodaBiAc/JYsNLWB5gnJ\nhoqpjU2fLUYmPnkdQYqk0pDDDummEJAwRt+jq9aLZ4BN5xAd+4MQVAmR3zYFXocg\nZYLZAEwCAvuNPFIiYT0KJw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "piscinapulmon@piscina-pulmon.iam.gserviceaccount.com",
+  "client_id": "114419280063908953983",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/piscinapulmon%40piscina-pulmon.iam.gserviceaccount.com"
+}
